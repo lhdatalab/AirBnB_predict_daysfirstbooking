@@ -1,4 +1,4 @@
-# AirBnB_predict_daysfirstbooking and customer revenue
+# AirBnB_predict_days until first booking and customer revenue
 
 AirBnB data for predicting the country of first destination is readily
 available online (Kaggle). Can this same data be used to define/solve 
