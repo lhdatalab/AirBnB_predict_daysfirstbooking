@@ -11,8 +11,11 @@ One idea for this project is to create a seperate project using the same data.
 Days until revenue collected (days until first booking) and sizing the revenue opportunity (US).
 
 An approximate 50% conversion rate US and global customers.
+
 Revenue collected in 6 months for new customers (kaggle data) - $0.21M (US) and $1M (global).
-Annual revenue collected for new customers (AirBnB real world data, 2019) - $3.8 billions (US) and $14.8 billions (global)
+
+Annual revenue collected for new customers (AirBnB real world data, 2019) - $3.8 billions (US) and $14.8 billions (global).
+
 Increasing conversion rates from 50% to 65% can lead to increase in $1 billion (US only) in revenue.
 
 The main analytics (machine learning) observations from this project are:
