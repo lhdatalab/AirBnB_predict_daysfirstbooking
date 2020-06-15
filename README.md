@@ -18,9 +18,10 @@ Revenue collected in 6 months for new customers (kaggle data) - $0.21M (US) and 
 
 Annual revenue collected for new customers (AirBnB real world data, 2019) - $3.8 billions (US) and $14.8 billions (global).
 
-Increasing conversion rates from 50% to 65% can lead to increase in $1 billion (US only) in revenue.
+Increasing conversion rates from 50% to 65% can lead to an increase in $1 billion (US only) in revenue.
 
 The main analytics (machine learning) observations from this project are:
+
     1. Missing values can skew the results
 
     2. Finding a way to change the number of variables (bias) and 
