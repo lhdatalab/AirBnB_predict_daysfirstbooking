@@ -17,7 +17,7 @@ On average new users take 3 weeks (US) and 1 month (Global) before making a book
 An approximate 50% conversion rate for US and global customers respectively.
 
 
-Bonus:
+<b>Bonus:</b></br>
 Revenue collected in 6 months for new customers (kaggle data) - $0.21M (US) and $1M (global).
 
 Annual revenue collected for new customers (AirBnB real world data, 2019) - $3.8 billions (US) and $14.8 billions (global).
