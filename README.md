@@ -6,7 +6,7 @@ other problems or create new opportunities?
 
 One idea for this project is to create a seperate project using the same data. 
 
-<b>Note: This analysis does not include any 2020 data. Revenue projections were limited to the US</b>
+<b>Note: This analysis does not include any 2020 data. Revenue projections were limited to the US and Global</b>
 
 Days until revenue collected (days until first booking) and sizing the revenue opportunity (US).
 
