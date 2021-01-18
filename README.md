@@ -1,4 +1,8 @@
-# AirBnB predict days until first booking and customer revenue
+# AirBnB predict days until first booking
+
+Machine learning using python and AirBnB booking data
+ 
+ airbnb_customer_booking_ML.html - https://lhdatalab.github.io/airbnb_customer_booking_ML.html 
 
 AirBnB data for predicting the country of first destination is readily
 available online (Kaggle). Can this same data be used to define/solve 
