@@ -2,7 +2,7 @@
 
 Machine learning using python and AirBnB booking data
  
- airbnb_customer_booking_ML.html - http://lhdatalab.github.io/airbnb_customer_booking_ML.html 
+ airbnb_customer_booking_ML.html - https://lhdatalab.github.io/airbnb_customer_booking_ML.html 
 
 AirBnB data for predicting the country of first destination is readily
 available online (Kaggle). Can this same data be used to define/solve 
